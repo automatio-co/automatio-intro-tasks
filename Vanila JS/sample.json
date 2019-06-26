@@ -1,0 +1,5802 @@
+[
+  [
+    {
+      "content": "Bitcoin",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/bitcoin/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$147,214,625,533",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$8,289.85",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$19,144,814,369",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "17,758,412 BTC",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "2.21%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Ethereum",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/ethereum/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$27,260,018,680",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$256.00",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$8,633,995,209",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "106,485,536 ETH",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.72%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "XRP",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/ripple/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$16,931,094,933",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.398360",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$1,221,902,657",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "42,501,950,124 XRP *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.71%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Litecoin",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/litecoin/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$8,178,111,969",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$131.44",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$4,803,055,771",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "62,219,426 LTC",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-2.26%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Bitcoin Cash",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/bitcoin-cash/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$7,338,244,492",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$411.40",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$1,931,726,551",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "17,837,300 BCH",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "2.73%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "EOS",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/eos/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$5,905,138,323",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$6.43",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$2,036,734,312",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "919,073,073 EOS *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.95%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Binance Coin",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/binance-coin/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$4,586,134,195",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$32.49",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$539,053,535",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "141,175,490 BNB *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-8.16%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Bitcoin SV",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/bitcoin-sv/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$3,720,720,740",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$208.61",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$493,997,404",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "17,835,398 BSV",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.82%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Tether",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/tether/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$3,435,589,662",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1.00",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$18,388,149,756",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "3,422,493,433 USDT *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.05%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Stellar",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/stellar/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$2,386,576,903",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.122852",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$387,840,932",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "19,426,417,641 XLM *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-2.75%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Cardano",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/cardano/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$2,324,402,963",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.089652",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$194,764,565",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "25,927,070,538 ADA",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-3.13%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "TRON",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/tron/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$2,141,463,069",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.032115",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$712,480,705",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "66,682,072,191 TRX",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-2.71%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Monero",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/monero/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$1,532,543,884",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$89.93",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$214,617,947",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "17,040,957 XMR",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.71%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Dash",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/dash/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$1,358,227,829",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$153.22",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$340,233,656",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "8,864,508 DASH",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-1.78%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "IOTA",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/iota/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$1,207,670,469",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.434487",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$44,898,965",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "2,779,530,283 MIOTA *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.86%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Cosmos",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/cosmos/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$1,177,678,193",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$6.18",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$75,819,433",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "190,688,439 ATOM *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.55%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Ethereum Classic",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/ethereum-classic/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$929,099,373",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$8.35",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$691,575,206",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "111,204,497 ETC",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-1.83%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "NEO",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/neo/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$918,697,159",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$13.02",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$620,447,287",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "70,538,831 NEO *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-2.38%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Tezos",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/tezos/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$810,655,024",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1.23",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$4,795,772",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "659,013,544 XTZ *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-4.38%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "NEM",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/nem/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$765,131,393",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.085015",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$18,672,675",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "8,999,999,999 XEM *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.51%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Maker",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/maker/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$723,287,266",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$723.29",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$6,887,662",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "1,000,000 MKR *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-1.87%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Ontology",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/ontology/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$697,106,830",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1.41",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$139,386,030",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "494,757,215 ONT *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-1.56%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Zcash",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/zcash/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$625,107,222",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$92.58",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$450,606,038",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "6,751,744 ZEC",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "4.44%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Chainlink",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/chainlink/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$527,879,055",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1.51",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$472,790,556",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "350,000,000 LINK *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "31.74%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Bitcoin Gold",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/bitcoin-gold/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$462,572,725",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$26.41",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$31,099,318",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "17,513,924 BTG",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "0.32%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Crypto.com Chain",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/crypto-com-chain/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$458,531,792",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.065740",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$26,023,062",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "6,974,885,845 CRO *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-1.66%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "VeChain",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/vechain/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$419,328,708",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.007562",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$22,123,601",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "55,454,734,800 VET *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "0.34%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Basic Attenti...",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/basic-attention-token/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$406,982,080",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.320726",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$42,497,630",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "1,268,938,630 BAT *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-3.12%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Dogecoin",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/dogecoin/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$366,191,361",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.003054",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$66,546,920",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "119,920,092,391 DOGE",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "0.49%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "USD Coin",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/usd-coin/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$342,960,905",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.998828",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$106,310,050",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "343,363,372 USDC *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.12%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Qtum",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/qtum/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$329,290,260",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$3.44",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$282,843,005",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "95,793,708 QTUM *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "5.83%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "OmiseGO",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/omisego/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$294,771,350",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$2.10",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$163,470,885",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "140,245,398 OMG *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "3.65%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "BitTorrent",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/bittorrent/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$280,023,996",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.001320",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$99,659,633",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "212,116,500,000 BTT *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "1.06%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Decred",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/decred/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$270,579,900",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$27.25",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$6,147,256",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "9,930,797 DCR",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-2.55%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Waves",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/waves/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$246,120,493",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$2.46",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$36,726,814",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "100,000,000 WAVES *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.44%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "TrueUSD",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/trueusd/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$245,323,495",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1.00",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$234,605,698",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "245,195,643 TUSD *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.11%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Holo",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/holo/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$241,991,488",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.001817",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$29,326,717",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "133,214,575,156 HOT *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-5.42%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Lisk",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/lisk/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$238,592,822",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$2.03",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$9,022,432",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "117,716,648 LSK *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-1.96%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Ravencoin",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/ravencoin/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$237,522,716",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.063214",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$26,182,617",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "3,757,450,000 RVN",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-4.29%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Bitcoin Diamond",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/bitcoin-diamond/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$227,291,119",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1.22",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$5,654,848",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "186,492,898 BCD",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-1.14%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Nano",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/nano/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$219,721,937",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1.65",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$19,142,795",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "133,248,297 NANO *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.21%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Pundi X",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/pundi-x/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$205,608,344",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.000868",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$6,777,186",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "236,950,087,583 NPXS *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "1.01%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Zilliqa",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/zilliqa/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$204,769,846",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.023571",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$65,190,214",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "8,687,360,058 ZIL *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "1.04%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Augur",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/augur/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$202,648,510",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$18.42",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$13,600,484",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "11,000,000 REP *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.32%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "0x",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/0x/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$191,987,908",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.321187",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$37,750,874",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "597,744,925 ZRX *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-2.98%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Komodo",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/komodo/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$188,867,405",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1.65",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$1,169,075",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "114,452,880 KMD",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.26%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Bytecoin",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/bytecoin-bcn/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$178,433,172",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.000969",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$48,531",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "184,066,828,814 BCN",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "3.54%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Aurora",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/aurora/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$177,114,351",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.027072",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$42,535,602",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "6,542,330,148 AOA *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-46.20%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "ICON",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/icon/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$175,556,284",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.370836",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$17,268,509",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "473,406,688 ICX *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-5.44%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Paxos Standar...",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/paxos-standard-token/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$172,556,247",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1.00",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$168,784,906",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "171,785,940 PAX *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "0.26%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Huobi Token",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/huobi-token/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$170,599,474",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$3.41",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$95,013,068",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "50,000,200 HT *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.46%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Bytom",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/bytom/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$168,584,565",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.168164",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$44,575,175",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "1,002,499,275 BTM",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "9.81%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "BitShares",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/bitshares/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$168,447,189",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.061786",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$8,203,182",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "2,726,280,000 BTS *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.69%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "DigiByte",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/digibyte/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$143,065,205",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.012011",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$2,059,823",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "11,911,219,824 DGB",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-2.06%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Qubitica",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/qubitica/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$141,207,426",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$50.28",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$202,787",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "2,808,613 QBIT *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.82%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Aeternity",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/aeternity/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$140,945,294",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.523176",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$45,731,253",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "269,403,396 AE",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "2.75%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "IOST",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/iostoken/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$139,959,447",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.011650",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$37,559,655",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "12,013,965,609 IOST *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "0.51%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Verge",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/verge/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$139,940,446",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.008876",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$2,867,581",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "15,765,417,909 XVG",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-2.69%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Dent",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/dent/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$134,163,991",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.001862",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$1,856,066",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "72,045,838,994 DENT *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.37%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Siacoin",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/siacoin/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$133,486,768",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.003249",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$1,945,874",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "41,085,927,519 SC",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "0.38%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "GXChain",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/gxchain/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$132,401,757",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$2.21",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$8,771,089",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "60,000,000 GXC *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.77%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Metaverse ETP",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/metaverse/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$130,746,482",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1.83",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$103,569,955",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "71,571,537 ETP",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-4.06%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Steem",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/steem/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$130,650,487",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.412495",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$2,067,742",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "316,732,474 STEEM *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.55%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "MonaCoin",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/monacoin/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$130,145,309",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1.98",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$6,176,315",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "65,729,675 MONA",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-2.39%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "SOLVE",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/solve/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$128,228,899",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.394407",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$3,752,811",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "325,118,527 SOLVE *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "2.24%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "KuCoin Shares",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/kucoin-shares/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$121,839,362",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1.36",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$30,166,779",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "89,659,415 KCS *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "7.50%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "THETA",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/theta/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$114,440,161",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.131464",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$8,963,493",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "870,502,690 THETA *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-3.95%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Enjin Coin",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/enjin-coin/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$114,121,502",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.147912",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$11,137,523",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "771,551,985 ENJ *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-4.82%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "HyperCash",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/hypercash/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$111,602,043",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$2.56",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$14,307,465",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "43,529,781 HC",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "15.61%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "ThoreCoin",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/thorecoin/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$108,935,798",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1,256.67",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$125,941",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "86,686 THR *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "2.08%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "aelf",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/aelf/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$102,754,263",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.207446",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$18,441,138",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "495,330,000 ELF *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "5.05%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Ardor",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/ardor/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$102,346,204",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.102449",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$2,567,390",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "998,999,495 ARDR *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-4.01%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Crypto.com",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/crypto-com/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$101,722,325",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$6.44",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$9,467,214",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "15,793,831 MCO *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-1.26%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Status",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/status/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$101,586,599",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.029272",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$20,915,820",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "3,470,483,788 SNT *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.33%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Golem",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/golem-network-tokens/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$97,280,233",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.100953",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$4,120,320",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "963,622,000 GNT *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-3.64%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "HedgeTrade",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/hedgetrade/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$95,795,135",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.333529",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$256,400",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "287,216,440 HEDG *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.39%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "WAX",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/wax/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$94,052,920",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.099760",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$4,221,462",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "942,791,205 WAX *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-8.22%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "ABBC Coin",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/abbc-coin/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$93,905,388",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.185922",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$55,085,268",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "505,080,604 ABBC",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "1.16%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Stratis",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/stratis/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$91,279,233",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.918609",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$2,382,925",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "99,366,789 STRAT *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-3.24%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Mixin",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/mixin/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$88,047,519",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$195.75",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$1,448,285",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "449,799 XIN *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "5.32%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Insight Chain",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/insight-chain/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$84,389,002",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.241178",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$3,249,068",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "349,902,689 INB *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-1.84%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "MaidSafeCoin",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/maidsafecoin/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$84,019,064",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.185656",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$442,096",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "452,552,412 MAID *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-3.62%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "VestChain",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/vestchain/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$84,005,894",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.011868",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$274,789",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "7,078,400,000 VEST *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "3.01%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Cryptonex",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/cryptonex/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$83,808,999",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1.51",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$13,950,106",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "55,686,329 CNX",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "1.81%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Zcoin",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/zcoin/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$83,799,467",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$10.87",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$7,380,624",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "7,707,768 XZC",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-15.80%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Dai",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/dai/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$83,070,497",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.997204",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$47,463,150",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "83,303,443 DAI *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "0.25%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Waltonchain",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/waltonchain/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$82,929,844",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1.99",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$6,484,154",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "41,682,339 WTC *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-6.03%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "TrueChain",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/truechain/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$82,565,270",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1.04",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$58,709,796",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "79,575,543 TRUE *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.73%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Egretia",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/egretia/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$82,177,274",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.019751",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$30,014,896",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "4,160,667,870 EGT *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-0.63%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Nebulas",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/nebulas-token/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$76,614,299",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1.58",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$9,862,477",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "48,627,715 NAS *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-6.36%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Project Pai",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/project-pai/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$72,585,276",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.049984",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$3,867,947",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "1,452,156,058 PAI *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "1.66%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Horizen",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/zencash/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$68,696,892",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$10.30",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$5,377,910",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "6,666,725 ZEN",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-4.92%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Maximine Coin",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/maximine-coin/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$66,814,779",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.040518",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$1,922,144",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "1,649,000,000 MXM *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-1.38%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Energi",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/energi/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$66,627,975",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$3.90",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$547,065",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "17,069,763 NRG",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "22.59%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Loom Network",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/loom-network/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$65,889,715",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.082953",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$3,688,140",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "794,297,512 LOOM *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-3.94%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Ark",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/ark/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$65,320,095",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.578782",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$907,870",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "112,857,930 ARK *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-3.55%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "NULS",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/nuls/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$64,692,697",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.911990",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$25,398,176",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "70,935,776 NULS",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "3.40%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "DigixDAO",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/digixdao/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$63,932,880",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$31.97",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$3,415,726",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "2,000,000 DGD *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "-2.78%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Nash Exchange",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/nash-exchange/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$63,402,642",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$1.75",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$1,463,671",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "36,196,678 NEX *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "1.18%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ],
+  [
+    {
+      "content": "Loopring",
+      "elem": {},
+      "field": "Currency Name",
+      "leaf": "innerText",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "https://coinmarketcap.com/currencies/loopring/",
+      "elem": {},
+      "field": "Currency Link",
+      "leaf": "href",
+      "selector": ".currency-name",
+      "sorted": true
+    },
+    {
+      "content": "$62,767,020",
+      "elem": {},
+      "field": "Market Cap",
+      "leaf": "innerText",
+      "selector": "#currencies .market-cap",
+      "sorted": true
+    },
+    {
+      "content": "$0.066541",
+      "elem": {},
+      "field": "Price",
+      "leaf": "innerText",
+      "selector": ".price",
+      "sorted": true
+    },
+    {
+      "content": "$32,500,278",
+      "elem": {},
+      "field": "Volumn",
+      "leaf": "innerText",
+      "selector": ".volume",
+      "sorted": true
+    },
+    {
+      "content": "943,284,864 LRC *",
+      "elem": {},
+      "field": "Supply",
+      "leaf": "innerText",
+      "selector": ".circulating-supply",
+      "sorted": true
+    },
+    {
+      "content": "1.45%",
+      "elem": {},
+      "field": "Percent Change",
+      "leaf": "innerText",
+      "selector": ".percent-change",
+      "sorted": true
+    }
+  ]
+]

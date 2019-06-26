@@ -13,7 +13,7 @@ Write a function which takes a input and options.
       return output;
     }
 
-Sample input data: https://gist.github.com/entrptaher/611c6e90bf83869605d122cc628efb93
+Sample input data: [Sample JSON](sample.json)
 
 Read the nested object and organize the data so it looks similar to below. 
 
