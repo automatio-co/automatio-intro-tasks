@@ -1,12 +1,14 @@
 # Front End Task: Prevent Clicks
+
 You can submit the solution in any of the following ways:
 
 - A private or public repo
 - GitHub gist
-- A public blog describing the process. 
+- A public blog describing the process.
 - A deployed version
 - A small video of browser console just like the demo video below
-----------
+
+---
 
 Create two functions,
 `**addBlocker()**`
@@ -18,25 +20,24 @@ Create two functions,
 
 - Should remove the blocker created by addBlocker(), everything should be clickable as before adding the blocker.
 
-The two functions should work on **any website** including, ****
+The two functions should work on **any website** including,]
 
-- [**dev.to**](http://dev.to/) 
-- [**producthunt.com**](http://producthunt.com/)
+- [dev.to](http://dev.to/)
+- [producthunt.com](http://producthunt.com/)
 
 Here is a video preview of what should be done.
-
-https://www.youtube.com/watch?v=ZkVPheXNqoc&
-
 
 Link: [https://youtu.be/ZkVPheXNqoc](https://youtu.be/ZkVPheXNqoc)
 
 # Restrictions:
+
 1. You **cannot** use the following functions or methods.
+
 - stopImmediatePropagation
 - stopPropagation
 - preventDefault
 - elementFromPoint
 - appendChild
 - pointerEvents
-2. The solution must be done in vanila JS or jQuery. No other libraries are allowed.
 
+2. The solution must be done in vanila JS or jQuery. No other libraries are allowed.

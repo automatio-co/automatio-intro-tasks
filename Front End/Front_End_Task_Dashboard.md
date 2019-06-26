@@ -1,11 +1,13 @@
 # Front End Task: Dashboard
+
 You can submit the solution in any of the following ways:
 
 - A private or public repo
 - A deployed version
 - A public blog describing the process
 - A small video of browser
-----------
+
+---
 
 Create a react dashboard with **ant design/ant design pro**, it should have,
 
@@ -17,18 +19,23 @@ For the CSV data. It should be created from JSON data. Use a **sample json** fro
 
 Here is a sample json data,
 
-    [{
-      "userId": 1,
-      "id": 1,
-      "title": "delectus aut autem",
-      "completed": false
-    },{
-      "userId": 3,
-      "id": 3,
-      "title": "delectus aut autem"
-    },{
-      "userId": 1,
-      "id": 56,
-      "completed": false
-    }]
-
+```json
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "delectus aut autem",
+    "completed": false
+  },
+  {
+    "userId": 3,
+    "id": 3,
+    "title": "delectus aut autem"
+  },
+  {
+    "userId": 1,
+    "id": 56,
+    "completed": false
+  }
+]
+```
