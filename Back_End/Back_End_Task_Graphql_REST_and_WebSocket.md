@@ -14,7 +14,7 @@ Consider a big app which has lots of different ways to connect to a central data
 
 We have following structure for products array/collection,
 
-```
+```graphql
 {
   products: [
     {
@@ -101,29 +101,33 @@ Notice querying all products returns all products in one array of object, single
 
 I should be able to query the same products with GraphQL.
 
-    query products {
-      products {
-        id
-        transactions {
-          id
-          quantity
-          time
-        }
-      }
+```graphql
+query products {
+  products {
+    id
+    transactions {
+      id
+      quantity
+      time
     }
+  }
+}
+```
 
 And then for single product:
 
-    query product {
-      product(id: "abc123") {
-        id
-        transactions {
-          id
-          quantity
-          time
-        }
-      }
+```graphql
+query product {
+  product(id: "abc123") {
+    id
+    transactions {
+      id
+      quantity
+      time
     }
+  }
+}
+```
 
 Expected output is same as Part 1: Rest API above.
 
@@ -142,4 +146,5 @@ Showcase/provide your own subscription resolver without us providing any specifi
 3. on the subscribing tab, it shows something was created
 4. I go back to other tab and trigger **createProduct** again
 5. on the subscribing tab, it shows something was created
-   https://www.youtube.com/watch?v=LVUEpv8Mvr0&
+
+Link to sample video: https://www.youtube.com/watch?v=LVUEpv8Mvr0&
