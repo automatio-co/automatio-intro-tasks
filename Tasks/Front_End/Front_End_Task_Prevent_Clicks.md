@@ -11,6 +11,7 @@ You can submit the solution in any of the following ways:
 ---
 
 Create two functions,
+
 `**addBlocker()**`
 
 - Should block all clicks on the page. Nothing should be clickable anymore.
