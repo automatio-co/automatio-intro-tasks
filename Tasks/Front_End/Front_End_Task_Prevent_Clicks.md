@@ -21,7 +21,7 @@ Create two functions,
 
 - Should remove the blocker created by addBlocker(), everything should be clickable as before adding the blocker.
 
-The two functions should work on **any website** including,]
+The two functions should work on **any website** including,
 
 - [dev.to](http://dev.to/)
 - [producthunt.com](http://producthunt.com/)
@@ -32,7 +32,7 @@ Link: [https://youtu.be/ZkVPheXNqoc](https://youtu.be/ZkVPheXNqoc)
 
 # Restrictions:
 
-1. You **cannot** use the following functions or methods.
+1. You **cannot** use the following specific functions or methods.
 
 - stopImmediatePropagation
 - stopPropagation
