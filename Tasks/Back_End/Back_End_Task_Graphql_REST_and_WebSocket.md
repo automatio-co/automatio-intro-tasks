@@ -148,3 +148,5 @@ Showcase/provide your own subscription resolver without us providing any specifi
 5. on the subscribing tab, it shows something was created
 
 Link to sample video: https://www.youtube.com/watch?v=LVUEpv8Mvr0&
+
+## PS: `Prisma` is highly recommended for this task.
