@@ -16,18 +16,33 @@ Your task will be to write a function called **extractData()** to extract the ti
 
 ![Click to get a bigger picture](https://paper-attachments.dropbox.com/s_D3D02C284C1AD135CFEC5696FDC4188E7AAA83967FDBE177459B1828A81FA612_1559326267824_image.png)
 
-There are two main noticeable points:
+There are three main noticeable points:
 
 - Each box is randomly generated, sometimes it has title (class **.title**), sometimes subtitle (class **.subtitle**).
 - Each box might have different tag, ie: span, section, div, article.
+- You cannot use `boxes` element directly. `document.getElementById('boxes')` or `document.querySelector('#boxes')` is not allowed.
 
 Regardless of the format,
-
 - We need to extract the data using **document.querySelector** or some other way. You are free to use any library or tool.
 - It should work with slight or no change if I change the selectors and the text inside title/subtitle, or the order of them.
 - You cannot grab the data from the script tag. That is for demo purpose only.
 - We should be able to run your code on the browsers console and see the result in the array like below.
 
+## Most Important Rule
+
+You cannot use `boxes` element directly. `document.getElementById('boxes')` or `document.querySelector('#boxes')` is not allowed. 
+
+The following are allowed,
+- `document.querySelector('.title')`
+- `document.querySelector('.subtitle')`
+
+These following and any related variants are forbidden,
+- `document.querySelector('body > div:nth-child(1)')`
+- ``document.querySelector('#boxes')``
+
+You have to figure out the parent element for `.title` and `.subtitle` in some other way. 
+
+# Demo
 Here’s how I did it for demo purpose.
 
 ![Click to get a bigger picture](https://paper-attachments.dropbox.com/s_D3D02C284C1AD135CFEC5696FDC4188E7AAA83967FDBE177459B1828A81FA612_1559326064685_image.png)
