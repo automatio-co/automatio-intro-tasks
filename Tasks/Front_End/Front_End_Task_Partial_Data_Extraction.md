@@ -32,13 +32,27 @@ Regardless of the format,
 
 You cannot use `boxes` element directly. `document.getElementById('boxes')` or `document.querySelector('#boxes')` is not allowed. 
 
-The following are allowed,
+The following and similar variants are allowed,
 - `document.querySelector('.title')`
 - `document.querySelector('.subtitle')`
 
 These following and any related variants are forbidden,
 - `document.querySelector('body > div:nth-child(1)')`
-- ``document.querySelector('#boxes')``
+- `document.querySelector('#boxes')`
+- `boxes.children`
+
+You also cannot query for title/subtitle and find parentNode till you reach `boxes`. 
+```
+const boxes = document.querySelector('.title').parentNode
+```
+
+Any solution that maps over the childnodes of boxes is not accepted. Such as below
+```js
+boxes.children.map(element=>{
+  element.querySelector('.title'); 
+  element.querySelector('.subtitle')
+}
+```
 
 You have to figure out the parent element for `.title` and `.subtitle` in some other way. 
 
