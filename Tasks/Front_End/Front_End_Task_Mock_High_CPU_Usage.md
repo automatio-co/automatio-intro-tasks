@@ -32,22 +32,22 @@ mocker.stop() // stop the mock
 ## Sample Output in Chrome Task Manager
 ![](http://i.imgur.com/lrcgyoD.png)
 
-# Mock CPU and Memory Leak
+# Mock CPU Leak
 
-## Sample function calls with CPU and Memory
+## Sample function calls with CPU
 ```js
-// by default it'll use one cpu core/thread and 100MB of memory
-function mockCPUandMemoryLeak(){}
-mockCPUandMemoryLeak.prototype.init = ({ cpu = 1, memory = 100 }) => {} // your code
-mockCPUandMemoryLeak.prototype.start = () => {} // your code
-mockCPUandMemoryLeak.prototype.stop = () => {} // your code
-window.mockCPUandMemoryLeak = mockCPUandMemoryLeak;
+// by default it'll use one cpu core/thread
+function mockCPULeak(){}
+mockCPULeak.prototype.init = ({ cpu = 1 }) => {} // your code
+mockCPULeak.prototype.start = () => {} // your code
+mockCPULeak.prototype.stop = () => {} // your code
+window.mockCPULeak = mockCPULeak;
 
-const mocker = new mockCPUandMemoryLeak()
-mocker.init({ cpu: 6, memory: 1600 })
+const mocker = new mockCPULeak()
+mocker.init({ cpu: 6 })
 mocker.start() // starts the mock
 mocker.stop() // stop the mock
 ```
 
 ## Sample output in Chrome Task Manager
-![](http://i.imgur.com/9grAuH3.png)
+![](http://i.imgur.com/beDqpb6.png)
