@@ -14,7 +14,7 @@ Sometimes we need to do some mock stress tests.
 Create a page and a script which upon opening will make CPU and memory usage very high to the specified limits. Some bundler like webpack/browserify/parcel is recommended. You can use any library, method or implementation like class, prototypes, buffer, loops, arrays etc.
 
 ---
-# MockMemory Leak
+# Mock Memory Leak
 ## Sample function call with only memory mock
 ```js
 function mockMemoryLeak(){}
