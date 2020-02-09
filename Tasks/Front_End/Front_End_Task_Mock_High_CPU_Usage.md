@@ -29,8 +29,8 @@ mocker.start() // starts the mock
 mocker.stop() // stop the mock
 ```
 
-## Sample Output in DOM
-
+## Sample Output in Chrome Task Manager
+![](http://i.imgur.com/lrcgyoD.png)
 
 # Mock CPU and Memory Leak
 
