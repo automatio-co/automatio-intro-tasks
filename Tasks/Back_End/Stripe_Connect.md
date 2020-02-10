@@ -1,15 +1,5 @@
 # Back End Task: Stripe Connect
 
-You can submit the solution in any of the following ways:
-
-- A private or public repo
-- GitHub gist
-- A public blog describing the process.
-- A deployed version
-- A small video of playground or postman
-
----
-
 **Create a dummy bookstore app** where author can connect their own stripe connect account and sell their book. The bookstores stripe account should get 20% as processing fee and 80% shall go to the authors stripe account.
 
 # Submission:
@@ -24,6 +14,7 @@ Either of following,
 - A **deployed version** of the project, so we can test it out. 
     - Provide the username/password for the author and dummy information for the reader.
     - If it’s just an API, provide the JSON payload needed to get the right output.
+
 ## Rules:
 - Author’s can signup and login to see their stats, create book, connect their stripe.
 - Author can set their own store on bookstores.com (or localhost in this case).
