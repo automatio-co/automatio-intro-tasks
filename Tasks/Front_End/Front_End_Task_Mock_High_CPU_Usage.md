@@ -1,6 +1,6 @@
 # Front End Task: Mock High CPU and Memory Usage
 
-You can submit the solution in any of the following ways:
+**First make sure the code is well commented, tested and have a nice documentation** and then you can submit the solution in any of the following ways:
 
 - A private repo (add `taher@vanila.io` as collaborator)
 - A deployed version
