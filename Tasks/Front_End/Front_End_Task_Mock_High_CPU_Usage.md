@@ -2,7 +2,7 @@
 
 You can submit the solution in any of the following ways:
 
-- A private or public repo
+- A private repo (add `taher@vanila.io` as collaborator)
 - A deployed version
 - A public blog describing the process
 - A small video of browser
