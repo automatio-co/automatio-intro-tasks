@@ -1,4 +1,4 @@
-# JS Challenge: `organizeDataFromExtraction` - Step by Step
+# Organize Data from Extraction
 
 You can submit the solution in any of the following ways:
 
