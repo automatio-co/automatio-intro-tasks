@@ -75,7 +75,7 @@ Considering the above change, If **fill** is **false**, the output might look li
 ]
 ```
 
-If **leaf** if **true**, the output should not have the leaf like **innerText** **href** etc.
+If **leaf** if **false**, the output should not have the leaf like **innerText** **href** etc.
 
 ```json
 [
